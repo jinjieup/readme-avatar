@@ -2,6 +2,12 @@
 A node project for everyone to add contributor's avatar into your readme file
 
 ---
+## Recommend Method
+### **Use [lacolaco/contributors-img](https://contrib.rocks/) project!**
+### **Open source on [Github Repository](https://github.com/lacolaco/contributors-img)**
+![Website ScreenShot](image-2.png)
+
+---
 ## Use Method
 1. New a repository & Clone the repository to local
 2. Enter the folder and prepare for the environment
@@ -32,9 +38,13 @@ node .\contributors-avatar.js <repo name> <access token>
 
 ---
 ## Release Note
+- 2023-06-17 v1.0.1
+
+    Update README.md file with append the [lacolaco/contributors-img](https://contrib.rocks/) instruction.
+
 - 2023-06-14 v1.0.0
 
-    Create Project With Primary Features
+    Create Project With Primary Features.
 
 ---
 ## Contributors
